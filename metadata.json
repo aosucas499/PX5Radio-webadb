@@ -1,0 +1,6 @@
+{
+  "name": "PX5 Console MTCD/MTCE",
+  "description": "Consola automotriz de diagnóstico WebADB, gestión segura del sistema, modo Restore/Recovery, permisos de desarrollador, Magisk y borrado controlado para radios Android Rockchip PX5 MTCD/MTCE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
